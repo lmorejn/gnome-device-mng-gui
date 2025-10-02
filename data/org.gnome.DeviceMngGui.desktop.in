@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GNOME Device Manager
+Comment=Manage devices and drivers with a Raylib-powered GNOME app
+Exec=@EXEC@
+Icon=org.gnome.DeviceMngGui-symbolic
+Categories=Utility;GTK;
+StartupNotify=true
+Terminal=false
